@@ -1,0 +1,48 @@
+#mainNav{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Jaldi', sans-serif;
+}
+
+#header{ 
+    background-image: url('images/livingone.png');
+    width: 100%;
+    background-size: cover;
+}
+
+.headertext{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Leckerli One', cursive;
+}
+
+.jumboheading{
+    display: flex;
+    justify-content: center;
+    font-family: 'Leckerli One', cursive;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    font-family: 'Leckerli One', cursive;
+}
+
+.card-body{
+    font-family: 'Jaldi', sans-serif;
+}
+
+.resort-card-title{
+    display: flex;
+    justify-content: center;
+}
+
+.map{
+    display: flex;
+    justify-content: center;
+    font-family: 'Leckerli One', cursive;
+}
+
+ul {list-style:none;}
